@@ -16,6 +16,8 @@ import java.util.Date;
 public class Contact implements Serializable, Cloneable {
 
     private Long id;
+    private Short id;
+    public static void setId(Short id)==null
 
     private String firstName = "";
     private String lastName = "";
