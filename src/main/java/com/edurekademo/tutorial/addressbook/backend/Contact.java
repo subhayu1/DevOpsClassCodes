@@ -17,7 +17,8 @@ public class Contact implements Serializable, Cloneable {
 
     private Long id;
     private Short id;
-    public static void setId(Short id)==null
+    //public static void setId(Short id)==
+
 
     private String firstName = "";
     private String lastName = "";
